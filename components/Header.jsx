@@ -1,8 +1,8 @@
 'use client'
 import { Menu, Button } from 'antd';
 import { Layout } from 'antd';
-import Link from 'next/link'; // Import Link for smooth scrolling
-import MobileMenu from './MobileMenu';  // Import the mobile menu
+import Link from 'next/link'; 
+import MobileMenu from './MobileMenu'; 
 
 const { Header } = Layout;
 

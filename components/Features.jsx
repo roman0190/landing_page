@@ -1,5 +1,5 @@
 'use client'
-import { Card, Row, Col } from 'antd';
+import { Card } from 'antd';
 
 const Features = () => {
   return (

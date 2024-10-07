@@ -46,3 +46,8 @@ To run this project locally, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/roman0190/landing_page.git
+2. **Clone the Repository:**
+    cd landing_page
+3. **Install Dependencies and Run:**
+    npm install && npm run dev
+

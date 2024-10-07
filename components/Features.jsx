@@ -3,7 +3,7 @@ import { Card, Row, Col } from 'antd';
 
 const Features = () => {
   return (
-    <section className="py-16 bg-white">
+    <section className="py-16 bg-white" id='about'>
       <div className="container mx-auto text-center">
         <h2 className="text-3xl text-blue-600 font-bold mb-12">Why Choose Us?</h2>
         <div className='flex justify-between flex-col lg:flex-row gap-2 px-5'>

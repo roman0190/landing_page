@@ -8,7 +8,7 @@ const LandingPage = () => {
       fontSize={0}  
       gap={[100, 100]}  
     >
-      <section className="h-screen flex flex-col items-center justify-center bg-gradient-to-l from-blue-500 to-indigo-600 ">
+      <section className="h-screen flex flex-col items-center justify-center bg-gradient-to-l from-blue-500 to-indigo-600 " id="home">
         <h1 className="text-5xl font-bold text-white mb-4 text-center z-10">
           Welcome to Your E-Learning Journey
         </h1>

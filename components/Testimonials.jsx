@@ -16,7 +16,7 @@ const Testimonials = () => {
             <p className="mt-4 font-bold">- Jane Smith</p>
           </div>
           <div>
-            <p className="italic">"I’ve gained so many new skills from this platform!"</p>
+            <p className="italic">"I have gained so many new skills from this platform!"</p>
             <p className="mt-4 font-bold">- Adam Johnson</p>
           </div>
         </Carousel>

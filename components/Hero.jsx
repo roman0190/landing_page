@@ -5,7 +5,7 @@ const LandingPage = () => {
   return (
     <Watermark
       content="E-Learn"
-      fontSize={0}  
+      fontSize={100}  
       gap={[100, 100]}  
     >
       <section className="h-screen flex flex-col items-center justify-center bg-gradient-to-l from-blue-500 to-indigo-600 " id="home">
